@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Service Ivoire</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background: #f0f0f0;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: #2c3e50;
+      color: white;
+      padding: 20px 0;
+    }
+    h1 {
+      margin: 0;
+    }
+    p {
+      font-size: 18px;
+      margin-top: 20px;
+    }
+    footer {
+      margin-top: 50px;
+      padding: 10px;
+      background: #2c3e50;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Bienvenue sur Service Ivoire</h1>
+  </header>
+
+  <p>Ceci est la page d’accueil de mon site hébergé avec GitHub Pages 🎉</p>
+  <p>Prochainement, plus de contenu sera ajouté.</p>
+
+  <footer>
+    <p>&copy; 2025 Service Ivoire</p>
+  </footer>
+</body>
+</html>
